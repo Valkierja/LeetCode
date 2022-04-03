@@ -8,6 +8,9 @@
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
+
+ https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1906451/simple-solution
+ 
  */
 #include<algorithm>
 
