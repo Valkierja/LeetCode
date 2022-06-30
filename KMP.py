@@ -1,5 +1,3 @@
-from distutils.util import subst_vars
-
 
 def buildNextArr(subString:str) -> list:
     next = list(0)
